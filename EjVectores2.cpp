@@ -56,6 +56,7 @@ int encontrarMejor(int &mejor)
     return indice;
 }
     
+    
 // Esta rutina despliega el menu principal
 void despliegaMenu()
 {

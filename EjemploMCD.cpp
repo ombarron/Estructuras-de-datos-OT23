@@ -2,7 +2,7 @@
 //  Creación: 15/Agosto/2023
 //  Última modificación: 15/Agosto/2023
 //
-// Solución de la actividad 5 de recursividad
+// Solución de la actividad 4 de recursividad
 # include <iostream>
 
 using namespace std;

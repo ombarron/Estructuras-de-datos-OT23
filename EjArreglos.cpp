@@ -27,8 +27,7 @@ double calculaPromedio()
 
    for (int i= 0; i<MAXIMO_ALUMNOS; i++)
    promedio += calificaciones[i];
- 
-   
+  
    promedio = promedio / MAXIMO_ALUMNOS;
    return promedio;
 }
